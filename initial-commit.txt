@@ -1,1 +1,3 @@
 Our first step in Git!
+
+Text is no longer needed!
